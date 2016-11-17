@@ -1,14 +1,14 @@
 <html>
 	<head>
-		<title>Robot Sprzatajacy</title>
+		<title>T-1000-(4Melmak)</title>
 		<meta charset="UTF-8">
 		<link href="style.css"  rel="stylesheet" type="text/css">
+		<link rel="Shortcut icon" href="http://v-ie.uek.krakow.pl/~s187924/pp5/robotlogoook1.jpg" />
 	<head>
-<body bgcolor="blue">
+<body>
 <div>
-	<div class="gora"> <center>
-	<img src="http://v-ie.uek.krakow.pl/~s188182/pp5/logoook.png">
- <br><h2>T-1000-(4Melmak)</h2><br>
+	<div class="gora">
+	<h2 id="slogan">Nasze odkurzacze sa THE BEST - poodkurzasz nimi FEST!</h2>
 	</div>
 
 
@@ -28,7 +28,6 @@
 </div>
 
 	<div class="srodek">
-	<h2>Nasze odkurzacze sa THE BEST - poodkurzasz nimi FEST!</h2>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/zs1uW2UMzOc" frameborder="0" allowfullscreen></iframe>
 	</div>
 <br>
