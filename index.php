@@ -29,6 +29,7 @@
 
 	<div class="srodek">
 	<h2>Nasze odkurzacze sa THE BEST - poodkurzasz nimi FEST!</h2>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/zs1uW2UMzOc" frameborder="0" allowfullscreen></iframe>
 	</div>
 <br>
 
