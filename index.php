@@ -8,7 +8,7 @@
 <div>
 	<div class="gora"> <center>
 	<img src="http://v-ie.uek.krakow.pl/~s188182/pp5/logoook.png">
- <br>
+ <br><h2>T-1000-(4Melmak)</h2><br>
 	</div>
 
 
