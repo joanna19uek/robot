@@ -7,7 +7,7 @@
 <body bgcolor="blue">
 <div>
 	<div class="gora"> <center>
-	<img src="http://www.komputerswiat.pl/media/2010/365/1587672/odkurzacz-automatyczny-wstawka-pan.jpg">
+	<img src="http://v-ie.uek.krakow.pl/~s188182/pp5/logoook.png">
  <br>
 	</div>
 
