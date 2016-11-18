@@ -17,7 +17,7 @@
 </div>
 
 	<div class="menu">
-	<ul>
+	<ul id="menu">
 	<li><a href="produkt.php">Dane Techniczne</a>
 	<li><a href="strona.php">Kontakt</a>
 	<li><a href="galeria.php">Galeria</a>

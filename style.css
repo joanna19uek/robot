@@ -32,7 +32,7 @@ div.gora {
 div.menu {
 		text-align: center;
 		 width: 23%;
-		 height: 20%;
+		 
 		 float: left;
 		background-color: #e04b27;
 		border-radius: 10px 10px; 
@@ -61,9 +61,48 @@ div.menu {
 		position: absolute;
 	  }
 h2#slogan{
-	
+	font-weight: bold;
 	
 	line-height: 50px;
 	}
+/*
+Dynamiczne menu
+*/
+ul#menu{
+list-style-type: none;
+margin: 0 auto;
+margin-top: 20px;
+padding: 0 ;
+width: 200px;
 
+}
+
+ul li {
+border-top: 1px solid #B87333;
+width: 100%;
+}
+ul li:first-child{
+border-top: none;
+
+}
+
+ul li:last-child{
+margin-bottom: 20px;
+}
+
+ ul li a {
+	display: block;
+	text-decoration:none;
+        background-color: #AC7A33;
+        padding:8px;
+        text-align:center;
+        color: #EDFA8E;
+        font-size:18px;
+        border:1px solid #C04000;
+}
+ul li a:hover {
+	color: pink;
+	background-color: #FFF;
+	box-shadow: 0 0 8px 1px #CCC inset;
+	font-weight: bold;
 </style>
