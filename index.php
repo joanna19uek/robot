@@ -1,14 +1,14 @@
 <html>
 	<head>
-		<title>Robot Sprzatajacy</title>
+		<title>T-1000-(4Melmak)</title>
 		<meta charset="UTF-8">
 		<link href="style.css"  rel="stylesheet" type="text/css">
+		<link rel="Shortcut icon" href="http://v-ie.uek.krakow.pl/~s187924/pp5/robot/logoook1.jpg" />
 	<head>
-<body bgcolor="blue">
-<div>
-	<div class="gora"> <center>
-	<img src="http://v-ie.uek.krakow.pl/~s188182/pp5/logoook.png">
- <br><h2>T-1000-(4Melmak)</h2><br>
+<body>
+
+	<div class="gora">
+	<h2 id="slogan">Nasze odkurzacze sa THE BEST - poodkurzasz nimi FEST!</h2>
 	</div>
 
 
@@ -17,25 +17,25 @@
 </div>
 
 	<div class="menu">
-	<a href="produkt.php">Dane Techniczne</a><br>
-	<a href="strona.php">Kontakt</a><br>
-	<a href="galeria.php">Galeria</a>
-
+	<ul id="menu">
+	<li><a href="produkt.php">Dane Techniczne</a>
+	<li><a href="strona.php">Kontakt</a>
+	<li><a href="galeria.php">Galeria</a>
+	</ul>
 
 	</div>
 
-<div class="ods">
-</div>
+
+
 
 	<div class="srodek">
-	<h2>Nasze odkurzacze sa THE BEST - poodkurzasz nimi FEST!</h2>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/zs1uW2UMzOc" frameborder="0" allowfullscreen></iframe>
-	</div>
 <br>
-
-
-
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/zs1uW2UMzOc" frameborder="0" allowfullscreen></iframe>
+<br>	
+<br>
 </div>
+
+
 <div class="stopka">
 <h3>ACME Company</h3>
 </div>
